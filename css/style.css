@@ -1,3 +1,4 @@
+/* Ana Maria and Cristian, Desktop */
 * {
     box-sizing: border-box;
     margin: 5px;
@@ -188,7 +189,7 @@ footer ul {
     }
 }
 
-/* Ana Maria */
+/* Ana Maria, Desktop */
 
 @media (min-width:1024px) {
     .header-nav ul li {
